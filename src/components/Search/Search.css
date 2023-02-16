@@ -1,0 +1,14 @@
+.input-search{
+    height: 30px;
+    width: 195px;
+    border-radius: 10px;
+    background-color: black;
+    color:aliceblue ;
+    font-size: 20px;
+}
+
+.input-search::placeholder{
+    color: aliceblue;
+    font-size: 17px;
+   
+}
